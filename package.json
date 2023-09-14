@@ -1,6 +1,6 @@
 {
-  "name": "vue-instant-page",
-  "version": "1.0.0",
+  "name": "vue3-instant-page",
+  "version": "1.0.3",
   "description": "Make your site’s pages instant with this Vue 3 Plugin and improve your conversion rate.",
   "author": "Pascal van Gemert <pascal@pascalvangemert.nl> || Patrick <patricklenert@gmail.com>",
   "private": false,
